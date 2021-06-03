@@ -23,41 +23,4 @@ Metode Gauss Jordan
 Metode Gauss-Jordan adalah pengembangan dari eliminasi Gauss yang hasilnya lebih sederhana lagi. Metode ini meneruskan operasi baris dari eliminasi Gauss sehingga menghasilkan matriks yang Eselon-baris dan juga dapat digunakan sebagai salah satu metode penyelesaian persamaan linear dengan menggunakan matriks. Metode Gauss-Jordan juga dapat digunakan untuk mencari invers dari sebuah matriks.
 
 Metode Gauss Seidel
-Metode iterasi Gauss-Seidel adalah metode yang menggunakan proses iterasi hingga diperoleh nilai-nilai yang berubah-ubah dan akhirnya relatif konstan. Metode iterasi Gauss- Seidel dikembangkan dari gagasan metode iterasi pada solusi persamaan tak linier. Metode eliminasi gauss-seidel digunakan untuk menyelesaikan SPL yang berukuran kecil karena metode ini lebih efisien. Dengan metode iterasi Gauss-Seidel toleransi pembulatan dapat diperkecil karena iterasi dapat diteruskan sampai seteliti mungkin sesuai dengan batas toleransi yang diinginkan. Kelemahan dari metode ini adalah masalah pivot (titik tengah) yang harus benar–benar diperhatikan, karena penyusunan yang salah akan menyebabkan iterasi menjadi divergen dan tidak diperoleh hasil yang benar.
-
-Metode Jacobi
-Metode iterasi Jacobi digunakan untuk menyelesaikan persamaan linier yang proporsi koefisien nol nya besar. Iterasi dapat diartikan sebagai suatu proses atau metode yang digunakan secara berulang-ulang (pengulangan) dalam menyelesaikan suatu permasalahan matematika. Kelebihan dari metode ini adalah langkah penyelesaiannya yang sederhana, sedangkan kelemahannya adalah proses iterasinya lambat. Terutama untuk persamaan linear serentak dengan ordo tinggi dan hanya dapat digunakan menyelesaikan persamaan linear serentak.
-
-MODUL 4
-Integrasi numerik merupakan cara alternatif untuk mengintegrasikan suatu persamaan, disamping integrasi analitis. Integrasi analitis terkadang merupakan cara integrasi yang sulit, khususnya pada persamaan-persamaan yang kompleks dan rumit. 
-
-1. Metode Trapesium Banyak PIAS
-Metode trapesium merupakan metode pendekatan integral numerik dengan persamaan polinomial order satu. Dalam metode ini kurve lengkung dari fungsi f (x) digantikan oleh garis lurus.  Pada metode trapesium satu pias memberikan kesalahan sangat besar. Untuk mengurangi kesalahan yang terjadi maka kurve lengkung didekati oleh sejumlah garis lurus, sehingga terbentuk banyak pias. Luas bidang adalah jumlah dari luas beberapa pias tersebut.  Semakin kecil pias yang digunakan, hasil yang didapat menjadi semakin teliti. Metode trapesium dapat digunakan untuk integral suatu fungsi yang diberikan dalam bentuk numerik pada interval diskret.
-
-
-2. Metode Simspon 1/3
-Kaidah simpson 1/3 adalah kaidah yang mencocokkan polinomial derajat pada tiga titik data diskrit yang mempunyai jarak yang sama.  Hampiran nilai integrasi yang lebih baik dapat ditingkatkan dengan menggunakan polinom interpolasi berderajat yang lebih tinggi. Rumus Simpson dapat diturunkan berdasarkan deret Taylor. Metode simpson 1/3 dapat menghasilkan ketelitian orde 3 dan hanya memerlukan 3 titik.  Pada simpson 1/3 hanya berlaku untuk jumlah pias genap.
-
-MODUL 5
-Persamaan diferensial adalah persamaan yang memuat turunan satu atau beberapa fungsi yang tak diketahui.  Persamaan diferensial biasa hanya mengandung satu variable bebas. Metode satu langkah persamaan diferensial biasa ilaha metode euler maupun metode heun
-
-1. Metode Euler
-Metode Euler dapat diturunkan dari Deret Taylor. etode Euler menggunakan garis tangen ke fungsi di awal interval sebagai perkiraan kemiringan fungsi selama interval, dengan asumsi bahwa jika ukuran langkah kecil, kesalahan akan menjadi kecil.  Metode Euler digunakan sebagai dasar untuk metode Heun. Metode ini pada dasarnya adalah merepresentasikan solusinya dengan beberapa suku deret Taylor. Metode Euler adalah salah satu dari metode satu langkah yang paling sederhana. Di banding dengan beberapa metode lainnya, metode ini paling kurang teliti. Namun demikian metode ini perlu dipelajari mengingat kesederhanaannya dan mudah pemahamannya.
-
-2. Metode Heun
-Metode Heun adalah salah satu metode numerik yang dapat digunakan untuk menyelesaikan berbagai persoalan matematika yang mempunyai masalah nilai awal. Metode ini melibatkan 2 buah persamaan. Persamaan pertama disebut sebagai persamaan prediktor yang digunakan untuk memprediksi nilai integrasi awal.  Persamaan kedua disebut sebagai persamaan korektor yang mengoreksi hasil integrasi awal.
-
-Nama Anggota Kelompok 1:
-1. Sylvia Tursina 26050119140157
-2. Almira Calosa Adiska 26050119140152
-3. Ayesha Waneta 26050119140151
-4. Rena Sagita 26050119140149
-5. Riska Widyah Ningrum 26050119120002
-6. Marihot Axell Adellio 26050119140147
-7. Luis Figo 26050119140154
-
-saran :
-1. untuk praktikum selanjutnya dimohon diberikan tutorial yang lebih jelas
-2. untuk tutorial selanjutnya diberikan screenshot proses yang gagal dan proses yang sukses
-
-Terimaksih untuk bimbingnnya dari modul 1 sampai modul 5 praktikum Metode Numerik 2021 semoga lebih baik kedepannya.
+Metode iterasi Gauss-Seidel adalah metode yang menggunakan proses iterasi hingga diperoleh nilai-nilai yang berubah-ubah dan akhirnya relatif konstan. Metode iterasi Gauss- Seidel dikembangkan dari gagasan metode iterasi pada solusi persamaan tak linier. Metode eliminasi gauss-seidel digunakan untuk menyelesaikan SPL yang berukuran kecil karen
