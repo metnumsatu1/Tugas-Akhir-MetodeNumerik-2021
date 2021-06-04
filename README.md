@@ -43,6 +43,8 @@ Metode Heun adalah salah satu metode numerik yang dapat digunakan untuk menyeles
 5. Riska Widyah Ningrum 26050119120002
 6. Marihot Axell Adellio 26050119140147
 7. Luis Figo 26050119140154
+8. M.Firouz Dimas Sadewo 26050119140153
+9. Arij Kemala Yasmin Ridarto 26050119140144
 
 
 # saran :
